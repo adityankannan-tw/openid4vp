@@ -6,7 +6,7 @@
     "id": "did:web:adityankannan-tw.github.io:openid4vp:files",
     "verificationMethod": [
       {
-        "publicKeyMultibase": "6JgLQec1HSJinyj6zI8NdW01CjpNIc-wfrlix8mJ74M",
+        "publicKeyMultibase": "IKXhA7W1HD1sAl+OfG59VKAqciWrrOL1Rw5F+PGLhi4=",
         "controller": "did:web:adityankannan-tw.github.io:openid4vp:files",
         "id": "did:web:adityankannan-tw.github.io:openid4vp:files#key-0",
         "type": "Ed25519VerificationKey2020",
